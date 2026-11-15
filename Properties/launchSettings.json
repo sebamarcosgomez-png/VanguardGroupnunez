@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "PLUS VG - Local": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "admin.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://127.0.0.1:5186"
+    }
+  }
+}
